@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Prueba.API.Solution\Clases.BL\bin\Debug\net6.0\Clases.BL.deps.json
+C:\Users\User\source\repos\Prueba.API.Solution\Clases.BL\bin\Debug\net6.0\Clases.BL.dll
+C:\Users\User\source\repos\Prueba.API.Solution\Clases.BL\bin\Debug\net6.0\Clases.BL.pdb
+C:\Users\User\source\repos\Prueba.API.Solution\Clases.BL\obj\Debug\net6.0\Clases.BL.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Prueba.API.Solution\Clases.BL\obj\Debug\net6.0\Clases.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Prueba.API.Solution\Clases.BL\obj\Debug\net6.0\Clases.BL.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Prueba.API.Solution\Clases.BL\obj\Debug\net6.0\Clases.BL.AssemblyInfo.cs
+C:\Users\User\source\repos\Prueba.API.Solution\Clases.BL\obj\Debug\net6.0\Clases.BL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Prueba.API.Solution\Clases.BL\obj\Debug\net6.0\Clases.BL.dll
+C:\Users\User\source\repos\Prueba.API.Solution\Clases.BL\obj\Debug\net6.0\refint\Clases.BL.dll
+C:\Users\User\source\repos\Prueba.API.Solution\Clases.BL\obj\Debug\net6.0\Clases.BL.pdb
+C:\Users\User\source\repos\Prueba.API.Solution\Clases.BL\obj\Debug\net6.0\ref\Clases.BL.dll
